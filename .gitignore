@@ -1,0 +1,9 @@
+build/
+install/
+log/
+site/
+__pycache__/
+.vscode/
+.thumbs/
+NvStreamer*
+pkgs/
