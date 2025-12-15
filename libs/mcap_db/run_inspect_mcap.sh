@@ -1,0 +1,1 @@
+python3 inspect_mcap.py /home/jymeng/ros_ws/bags/20240808_0827_gui_3/20240808_0827_gui_3_0.mcap --topics /visual_slam/status /visual_slam/tracking/odometry /tip_pos /path /planning/anchor_g /vehicle /op_area --image_topics /enhanced/left/rectified /enhanced/right/rectified /inferred/colors
